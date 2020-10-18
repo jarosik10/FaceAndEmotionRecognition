@@ -1,0 +1,2 @@
+class NoFaceFoundError(Exception):
+    pass
